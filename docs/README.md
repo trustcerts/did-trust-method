@@ -2,7 +2,7 @@
 
 # Abstract
 
-This specification defines a DID method based on the Trustchain and its full potential.
+This specification defines a DID method based on the Trustchain and its full potential. Test.
 
 # Status of this document
 
