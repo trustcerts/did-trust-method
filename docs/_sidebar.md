@@ -1,6 +1,6 @@
 - [__Home__](/)
 
--spec
+- spec
 
  - [Abstract](./spec/abstract.md)
  - [Status of this document](./spec/status_of_this_document.md)
