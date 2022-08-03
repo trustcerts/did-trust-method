@@ -1,0 +1,18 @@
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+repository:
+  name: did-trust-method2
+  description: TrustCerts
+  homepage: https://www.trustcerts.de
+  default_branch: default
+  has_downloads: true
+  has_issues: false
+  has_projects: false
+  has_wiki: false
+  archived: false
+  private: false
+  allow_squash_merge: true
+  allow_merge_commit: false
+  allow_rebase_merge: true

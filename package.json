@@ -1,0 +1,24 @@
+{
+  "name": "did-trust-method2",
+  "description": "did:trust Method Specification",
+  "version": "0.1.0",
+  "homepage": "http://www.trustcerts.de",
+  "license": "Apache 2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trustcerts/did-trust-method2"
+  },
+  "dependencies": {
+    "spec-up": "^0.10.1"
+  },
+  "devDependencies": {
+    "ace-custom-element": "1.6.5",
+    "ajv": "^6.12.5",
+    "mocha": "^8.1.3"
+  },
+  "scripts": {
+    "render": "node -e \"require('spec-up')({ nowatch: true })\"",
+    "edit": "node -e \"require('spec-up')()\"",
+    "test": "mocha 'test/**/*.js'"
+  }
+}

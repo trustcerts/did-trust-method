@@ -1,0 +1,28 @@
+{
+  "specs": [
+    {
+      "title": "did:trust Method Specification",
+      "spec_directory": "./spec",
+      "output_path": "./docs",
+      "markdown_paths": [
+        "0_header.md",
+        "1_abstract.md",
+        "2_status_of_this_document.md",
+        "3_introduction.md",
+        "4_concepts.md",
+        "5_the_did_trust_format.md",
+        "6_operations.md",
+        "7_privacy_considerations.md",
+        "8_security_considerations.md",
+        "9_future_works.md"
+      ],
+      "logo": "https://raw.githubusercontent.com/trustcerts/did-trust-method2/main/trustcerts-logo.svg",
+      "logo_link": "https://github.com/trustcerts/did-trust-method2",
+      "source": {
+        "host": "github",
+        "account": "trustcerts",
+        "repo": "did-trust-method2"
+      }
+    }
+  ]
+}
