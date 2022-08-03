@@ -16,12 +16,12 @@
         "8_security_considerations.md",
         "9_future_works.md"
       ],
-      "logo": "https://raw.githubusercontent.com/trustcerts/did-trust-method2/main/trustcerts-logo.svg",
-      "logo_link": "https://github.com/trustcerts/did-trust-method2",
+      "logo": "https://raw.githubusercontent.com/trustcerts/did-trust-method/main/trustcerts-logo.svg",
+      "logo_link": "https://github.com/trustcerts/did-trust-method",
       "source": {
         "host": "github",
         "account": "trustcerts",
-        "repo": "did-trust-method2"
+        "repo": "did-trust-method"
       }
     }
   ]

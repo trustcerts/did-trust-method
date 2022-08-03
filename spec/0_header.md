@@ -4,7 +4,7 @@
 
 **Latest Draft:**
 
-[https://github.com/trustcerts/did-trust-method2](https://github.com/trustcerts/did-trust-method2)
+[https://github.com/trustcerts/did-trust-method](https://github.com/trustcerts/did-trust-method)
 
 **Editors:**
 
@@ -16,7 +16,7 @@
 
 **Participate:**
 
-~ [GitHub repo](https://github.com/trustcerts/did-trust-method2)
-~ [Commit history](https://github.com/trustcerts/did-trust-method2/commits/main)
+~ [GitHub repo](https://github.com/trustcerts/did-trust-method)
+~ [Commit history](https://github.com/trustcerts/did-trust-method/commits/main)
 
 ---

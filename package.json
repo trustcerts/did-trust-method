@@ -1,12 +1,12 @@
 {
-  "name": "did-trust-method2",
+  "name": "did-trust-method",
   "description": "did:trust Method Specification",
   "version": "0.1.0",
   "homepage": "http://www.trustcerts.de",
   "license": "Apache 2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/trustcerts/did-trust-method2"
+    "url": "git://github.com/trustcerts/did-trust-method"
   },
   "dependencies": {
     "spec-up": "^0.10.1"

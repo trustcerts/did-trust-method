@@ -3,7 +3,7 @@
 #
 
 repository:
-  name: did-trust-method2
+  name: did-trust-method
   description: TrustCerts
   homepage: https://www.trustcerts.de
   default_branch: default
